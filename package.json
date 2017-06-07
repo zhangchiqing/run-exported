@@ -6,10 +6,10 @@
   "bin": {
     "run-exported": "run-exported.js"
   },
-  "files": {
+  "files": [
     "bin",
     "index"
-  },
+  ],
   "directories": {
     "test": "tests"
   },
