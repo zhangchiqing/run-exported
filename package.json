@@ -1,0 +1,29 @@
+{
+  "name": "run-exported",
+  "version": "1.0.0",
+  "description": "run a exported function of a node module",
+  "main": "index.js",
+  "bin": {
+    "run-exported": "run-exported.js"
+  },
+  "files": {
+    "bin",
+    "index"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangchiqing/run-exported.git"
+  },
+  "author": "Leo Zhang (zhangchiqing@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangchiqing/run-exported/issues"
+  },
+  "homepage": "https://github.com/zhangchiqing/run-exported#readme"
+}
